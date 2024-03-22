@@ -7,7 +7,7 @@
 
 - 📫 How to reach me **ramondev1337@gmail.com**
 
-- ⚡ Fun fact **I love art, musica and I enjoy play video games**
+- ⚡ Fun fact **I love art, music and I enjoy play video games**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
