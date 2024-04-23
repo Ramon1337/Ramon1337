@@ -3,7 +3,7 @@
 
 - 🌱 I’m currently learning **React Native, Python and UI Design**
 
-- 💬 Ask me about **React, UI Design** or something about :D
+- 💬 Ask me about **JavaScript, HTML5, CSS3** or something about :D
 
 - 📫 How to reach me **ramondev1337@gmail.com**
 
