@@ -2,7 +2,7 @@
 
 <h1>
     <a href="https://www.youtube.com/watch?v=2PNVsm4QlPA">
-     <img align="center" alt="Logo Ramon Godinho" width="70px" src="https://github.com/Ramonlegend/Ramonlegend/assets/122309444/66476f34-0e23-4544-b574-94e908de48c4"></a>
+     <img align="center" alt="Logo Ramon Godinho" width="34px" src="https://github.com/Ramonlegend/Ramonlegend/assets/122309444/66476f34-0e23-4544-b574-94e908de48c4"></a>
     <span>Ramon Godinho</span>
 </h1>
 
