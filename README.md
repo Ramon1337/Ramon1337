@@ -24,8 +24,7 @@ Currently enrolled in a Software Development course at FATEC.
 ### GitHub Stats
 
 ![GitHub stats](https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api?username=Ramonlegend&hide_title=true&show_icons=true&include_all_commits=false&count_private=true&line_height=25&hide=issues&bg_color=000&title_color=4169e1&text_color=FFF&border_radius=3&border_color=4169e1&icon_color=4169e1&theme=jolly)
-[![Preview](https://img.shields.io/badge/Portfolio-000?style=for-the-badge&logo=github&logoColor=4169e1)](https://Ramonlegend.github.io/)
-[![GitHub Page](https://img.shields.io/badge/Ramonlegend.github.io-67136f?style=for-the-badge)](https://Ramonlegend.github.io/)
+<img src="https://github-readme-stats.vercel.app/api/top-langs?username=Ramonlegend&locale=en&hide_title=false&layout=compact&card_width=320&langs_count=5&theme=jolly&hide_border=false" height="100" alt="languages graph"  />
 <h3 align="left">Languages and Tools:</h3>
 <div align="left">
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" height="30" alt="javascript logo"  />
