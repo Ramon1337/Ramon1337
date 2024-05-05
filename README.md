@@ -24,8 +24,7 @@ Currently enrolled in a Software Development course at FATEC.
 ### GitHub Stats
 
 ![GitHub stats](https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api?username=Ramonlegend&hide_title=true&show_icons=true&include_all_commits=false&count_private=true&line_height=25&hide=issues&bg_color=000&title_color=4169e1&text_color=FFF&border_radius=3&border_color=4169e1&icon_color=4169e1&theme=jolly)
-[![Most Used Languages](https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api/top-langs/?username=Ramonlegend&line_height=10&card_width=290&layout=compact&hide_title=false&count_private=true&langs_count=5&show_icons=true&title_color=FF00F6&hide=html,css,scss&bg_color=000&text_color=4169e1&border_radius=3&border_color=4169e1&count_private=true)](https://github.com/Ramonlegend/github-readme-stats
-
+<img src="https://github-readme-stats.vercel.app/api/top-langs?username=Ramonlegend&locale=en&hide_title=false&layout=compact&card_width=320&langs_count=5&theme=dracula&hide_border=false" height="150" alt="languages graph"  />
 <h3 align="left">Languages and Tools:</h3>
 <div align="left">
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" height="30" alt="javascript logo"  />
