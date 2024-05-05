@@ -1,4 +1,4 @@
-<img align="right" alt="Developer vector created by storyset - www.freepik.com" height="380" src="https://github.com/Ramonlegend/Ramonlegend/assets/122309444/043641a2-2b43-48fb-9782-4ba6d7606c5c">
+<img align="right" alt="Developer vector created by storyset - www.freepik.com" height="344" src="https://github.com/Ramonlegend/Ramonlegend/assets/122309444/043641a2-2b43-48fb-9782-4ba6d7606c5c">
 
 <h1>
     <a href="https://www.youtube.com/watch?v=2PNVsm4QlPA">
