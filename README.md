@@ -6,7 +6,7 @@
     <span>Ramon Godinho</span>
 </h1>
 
-<p align="justify">I'm Ramon, a tech enthusiast and lover!
+<p align="justify">I'm Ramon, a tech enthusiast and lover from Brasil! (with S)
 I'm fully immersed in my studies, driven by determination and perseverance, with the goal of becoming an exceptional web developer in the future.
 Currently enrolled in a Software Development course at FATEC.
 <br>
