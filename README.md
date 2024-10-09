@@ -10,7 +10,7 @@
 I'm fully immersed in my studies, driven by determination and perseverance, with the goal of becoming an exceptional web developer in the future.
 Currently enrolled in a Software Development course at FATEC.
 <br>
- Beyond technology, I'm passionate about music, cars and video games. Check it out -><a  href="https://steamcommunity.com/id/ghostlegend_/"> Steam Profile</a>.</p>
+ Beyond technology, I'm passionate about music, cars and video games. Check it out ☝️🤓 -><a  href="https://steamcommunity.com/id/ghostlegend_/"> Steam Profile</a>.</p>
 <!--
 [![Preview](https://img.shields.io/badge/Portfolio-000?style=for-the-badge&logo=github&logoColor=FF00F6)](https://elidianaandrade.github.io/)
 [![GitHub Page](https://img.shields.io/badge/elidianaandrade.github.io-67136f?style=for-the-badge)](https://elidianaandrade.github.io/)
