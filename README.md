@@ -9,6 +9,7 @@
 <p align="justify"> Graduando em Desenvolvimento de Software Multiplataforma pela FATEC de Indaiatuba.
 <br>
  Amo tecnlogia, carros, música e video-games :) </p>
+<br>
 <!--
 [![Preview](https://img.shields.io/badge/Portfolio-000?style=for-the-badge&logo=github&logoColor=FF00F6)](https://elidianaandrade.github.io/)
 [![GitHub Page](https://img.shields.io/badge/elidianaandrade.github.io-67136f?style=for-the-badge)](https://elidianaandrade.github.io/)
