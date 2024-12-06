@@ -18,12 +18,12 @@
 
 ### Connect with me
 
-[![LinkedIn](https://img.shields.io/badge/-LinkedIn-000?style=for-the-badge&logo=linkedin&logoColor=4169e1&color:FFF)](https://www.linkedin.com/in/ramon-godinho/)
-[![Instagram](https://img.shields.io/badge/-Instagram-000?style=for-the-badge&logo=instagram&logoColor=4169e1&color:FFF)](https://www.instagram.com/ramoon.god/)
+[![LinkedIn](https://img.shields.io/badge/-LinkedIn-FFF?style=for-the-badge&logo=linkedin&logoColor=4169e1&color:FFF)](https://www.linkedin.com/in/ramon-godinho/)
+[![Instagram](https://img.shields.io/badge/-Instagram-FFF?style=for-the-badge&logo=instagram&logoColor=4169e1&color:FFF)](https://www.instagram.com/ramoon.god/)
 
 ### GitHub Stats
 
-![GitHub stats](https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api?username=Ramonlegend&hide_title=true&show_icons=true&include_all_commits=false&count_private=true&line_height=25&hide=issues&bg_color=000&title_color=4169e1&text_color=FFF&border_radius=3&border_color=4169e1&icon_color=4169e1&theme=jolly)
+![GitHub stats](https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api?username=Ramon1337&hide_title=true&show_icons=true&include_all_commits=false&count_private=true&line_height=25&hide=issues&bg_color=FFF&title_color=4169e1&text_color=4169e1&border_radius=3&border_color=4169e1&icon_color=4169e1&theme=jolly)
 
 <h3 align="left">Languages and Tools:</h3>
 <div align="left">
