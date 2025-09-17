@@ -79,7 +79,7 @@ const who_i_am = {
 
 ```javascript
 while (ALIVE) {
-  drink coffee();
+  coffee();
   code();
   sleep();
   repeat();
