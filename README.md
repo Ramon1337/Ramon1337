@@ -85,10 +85,6 @@ while (ALIVE) {
   repeat();
 }
 
-// "O código limpo não é escrito seguindo regras. 
-// Você sabe que escreveu código limpo quando cada 
-// rotina que você lê é praticamente o que você esperava." 
-// - Robert C. Martin
 ```
 
 </div>
