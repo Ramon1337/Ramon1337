@@ -1,67 +1,119 @@
-<img align="right" alt="Developer vector created by storyset - www.freepik.com" height="380" src="https://github.com/Ramonlegend/Ramonlegend/assets/122309444/043641a2-2b43-48fb-9782-4ba6d7606c5c">
+# <div align="center">Ramon Godinho - Developer ☕</div>
 
-<h1>
-    <a href="https://www.youtube.com/watch?v=2PNVsm4QlPA">
-     <img align="center" alt="Logo Ramon Godinho" width="34px" src="https://github.com/Ramonlegend/Ramonlegend/assets/122309444/66476f34-0e23-4544-b574-94e908de48c4"></a>
-    <span>Ramon Godinho</span>
-</h1>
+<div align="center">
+  
+  ![Typing SVG](https://readme-typing-svg.demolab.com?font=Orbitron&size=28&duration=3000&pause=1000&color=64FFDA&background=0D1117&center=true&vCenter=true&width=600&lines=Estagiário+Desenvolvedor+Low-Code;N8N+Automation+Specialist;FATEC+Indaiatuba+Student;IAHub+Team+Member;Technology+Enthusiast;Ramon+Godinho+-+Developer)
+  
+</div>
 
-<p align="justify"> Graduando em Desenvolvimento de Software Multiplataforma pela FATEC de Indaiatuba.
-<br>
-<br>
- Amo tecnlogia, carros, música e video-games :) </p>
+## 🎯 Sobre Mim
 
-<!--
-[![Preview](https://img.shields.io/badge/Portfolio-000?style=for-the-badge&logo=github&logoColor=FF00F6)](https://elidianaandrade.github.io/)
-[![GitHub Page](https://img.shields.io/badge/elidianaandrade.github.io-67136f?style=for-the-badge)](https://elidianaandrade.github.io/)
--->
+```typescript
+const who_i_am = {
+  name: "Ramon Godinho",
+  role: "Estagiário Desenvolvedor Low-Code",
+  company: "IAHub",
+  stack: "N8N Automation Platform",
+  education: "Desenvolvimento de Software Multiplataforma - FATEC Indaiatuba",
+  location: "Indaiatuba, São Paulo, Brasil",
+  interests: ["💻 Tecnologia", "🏎️ Carros", "🎵 Música", "🎮 Video Games", "☕ Café"],
+  currentFocus: "Criação de Agentes, Automação de Processos & Low-Code Development",
+  lifePhilosophy: "Transformando ideias em código, código em soluções!"
+};
+```
 
-### Connect with me
+<div align="center">
 
-[![LinkedIn](https://img.shields.io/badge/-LinkedIn-FFF?style=for-the-badge&logo=linkedin&logoColor=4169e1&color:FFF)](https://www.linkedin.com/in/ramon-godinho/)
-[![Instagram](https://img.shields.io/badge/-Instagram-FFF?style=for-the-badge&logo=instagram&logoColor=4169e1&color:FFF)](https://www.instagram.com/ramoon.god/)
+---
 
-### GitHub Stats
+### 🌐 **Conecte-se Comigo**
 
-![GitHub stats](https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api?username=Ramon1337&hide_title=true&show_icons=true&include_all_commits=false&count_private=true&line_height=25&hide=issues&bg_color=FFF&title_color=4169e1&text_color=4169e1&border_radius=3&border_color=4169e1&icon_color=4169e1&theme=jolly)
+<a href="https://www.linkedin.com/in/ramon-godinho/" target="_blank">
+  <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white&labelColor=0A66C2" alt="LinkedIn"/>
+</a>
+<a href="https://www.instagram.com/ramoon.god/" target="_blank">
+  <img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white&labelColor=E4405F" alt="Instagram"/>
+</a>
 
-<h3 align="left">Languages and Tools:</h3>
-<div align="left">
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" height="30" alt="javascript logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/typescript/typescript-original.svg" height="30" alt="typescript logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" height="30" alt="react logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-original.svg" height="30" alt="nodejs logo"  />
-  <img width="12" />
-    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/express/express-original.svg" height="30" alt="express logo"  />
-  <img width="12" />
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/prisma/prisma-original.svg" height="30" alt="prisma" />
-<img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/sqlite/sqlite-original.svg" height="30" alt="sqlite logo"  />
-  <img width="12" />
-    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/postgresql/postgresql-original.svg" height="30" alt="postgres"  />
-  <img width="12" />
-       <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original-wordmark.svg" height="30" alt="mysql"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" height="30" alt="python logo"  />
-  <img width="12" />
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/bootstrap/bootstrap-original.svg" alt="bootstrap" height="30"/>
-  <img width="12" />
-    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/tailwindcss/tailwindcss-original.svg" alt="tailwind" height="30"/>
-  <img width="12" />
+---
+
+</div>
+
+## 🛠️ **Stack Tecnológico**
+
+<div align="center">
+
+### 💻 **Frontend**
+<img src="https://skillicons.dev/icons?i=html,css,js,ts,react,nextjs,tailwind,bootstrap&theme=dark" />
+
+### 🔧 **Backend**
+<img src="https://skillicons.dev/icons?i=nodejs,express,python,prisma,fastapi&theme=dark" />
+
+### 🗄️ **Banco de Dados**
+<img src="https://skillicons.dev/icons?i=postgresql,mysql,sqlite,mongodb&theme=dark" />
+
+### 🚀 **Ferramentas & DevOps**
+<img src="https://skillicons.dev/icons?i=git,github,vscode,vercel&theme=dark" />
+
+</div>
+
+---
+
+## 🎵 **Atualmente Ouvindo**
+
+<div align="center">
+  
+  [![Spotify](https://spotify-recently-played-readme.vercel.app/api?user=9trzpuq8zikf0v3wr8lmf8d1v&count=1&unique=true)](https://open.spotify.com/user/9trzpuq8zikf0v3wr8lmf8d1v)
+  
+  ### 🎧 **Conecte-se à minha música**
+  [![Spotify Profile](https://img.shields.io/badge/🎵_Meu_Spotify-1DB954?style=for-the-badge&logo=spotify&logoColor=white)](https://open.spotify.com/user/9trzpuq8zikf0v3wr8lmf8d1v)
+  
+</div>
+
+---
+
+## 🌟 **Projetos em Destaque**
+
+<div align="center">
+
+### 🏆 **Academia de IE** - *Projeto Principal*
+[![Website](https://img.shields.io/badge/🌐_Site_ao_Vivo-academiadeie.com-64ffda?style=for-the-badge&logo=vercel&logoColor=white)](https://www.academiadeie.com)
+[![Repositório](https://img.shields.io/badge/📂_Código-GitHub-0d1117?style=for-the-badge&logo=github&logoColor=64ffda)](https://github.com/Ramon1337/ie-color-studio)
+
+*Landing page completa para a influencer digital Lari Kaffer*
+
+  
+</div>
+
+---
+
+## 💭 **Filosofia de Código**
+
+<div align="center">
+
+```javascript
+while (ALIVE) {
+  drink coffee();
+  code();
+  sleep();
+  repeat();
+}
+
+// "O código limpo não é escrito seguindo regras. 
+// Você sabe que escreveu código limpo quando cada 
+// rotina que você lê é praticamente o que você esperava." 
+// - Robert C. Martin
+```
+
 </div>
 
 
-<br>
-<details align="left">
-  <summary></summary> 
- 
-  - Badges by <a href="https://shields.io/">shields.io</a><br>
-  - GitHub Stats by <a href="https://github.com/anuraghazra/github-readme-stats">anuraghazra</a>
-  - Developer vector created by <a href="https://www.freepik.com/vectors/developer">storyset - www.freepik.com</a> (edited by author)
- 
-  <div align="right">Made with 💙 by <a href="https://github.com/Ramonlegend">RG</a>.</div>
+<div align="center">
 
-</details>
+---
+### 💫 **"Código é poesia em movimento"** 💫
+**Feito com 💙 por [Ramon Godinho](https://github.com/Ramon1337)**
+
+<img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=0,2,2,5,30&height=100&section=footer&text=&fontSize=16" width="100%"/>
+
+</div>'
