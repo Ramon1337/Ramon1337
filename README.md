@@ -45,7 +45,7 @@ const who_i_am = {
 
 ---
 
-## 🎵 **Atualmente Ouvindo**
+## 🎵 **Amo escutar música!**
 
 <div align="center">
   
