@@ -49,8 +49,6 @@ const who_i_am = {
 
 <div align="center">
   
-  [![Spotify](https://spotify-recently-played-readme.vercel.app/api?user=9trzpuq8zikf0v3wr8lmf8d1v&count=1&unique=true)](https://open.spotify.com/user/9trzpuq8zikf0v3wr8lmf8d1v)
-  
   ### 🎧 **Conecte-se à minha música**
   [![Spotify Profile](https://img.shields.io/badge/🎵_Meu_Spotify-1DB954?style=for-the-badge&logo=spotify&logoColor=white)](https://open.spotify.com/user/9trzpuq8zikf0v3wr8lmf8d1v)
   
