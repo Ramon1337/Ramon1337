@@ -1,7 +1,7 @@
 # <div align="center">Ramon Godinho - Developer ☕</div>
 <div align="center">
   
-  ![Typing SVG](https://readme-typing-svg.demolab.com?font=Orbitron&size=28&duration=3000&pause=1000&color=64FFDA&background=0D1117&center=true&vCenter=true&width=600&lines=Estagiário+Desenvolvedor+Low-Code;N8N+Automation+Specialist;FATEC+Indaiatuba+Student;IAHub+Team+Member;Technology+Enthusiast;Ramon+Godinho+-+Developer)
+  ![Typing SVG](https://readme-typing-svg.demolab.com?font=Orbitron&size=28&duration=3000&pause=1000&color=64FFDA&background=0D1117&center=true&vCenter=true&width=600&lines=Desenvolvedor+Low-Code;N8N+Automation+Specialist;FATEC+Indaiatuba+Student;Make+Team+Member;Technology+Enthusiast;Ramon+Godinho+-+Developer)
   
 </div>
 
@@ -9,8 +9,8 @@
 ```typescript
 const who_i_am = {
   name: "Ramon Godinho",
-  role: "Estagiário Desenvolvedor Low-Code",
-  company: "IAHub",
+  role: "Analista de IA",
+  company: "Make",
   stack: "N8N Automation Platform",
   education: "Desenvolvimento de Software Multiplataforma - FATEC Indaiatuba",
   location: "Indaiatuba, São Paulo, Brasil",
